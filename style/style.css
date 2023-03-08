@@ -85,6 +85,9 @@ position: relative;
 top: 22px;
 left: 19px;
 }
+#koplijst{
+    list-style: none;
+}
 @media only screen and (max-width: 600px) {
     #twee{
 height: 1170px;
@@ -94,6 +97,7 @@ height: 1170px;
     }
     #een{
         background-color: rgb(195, 159, 230);
+        margin-top: 10px;
     }
     footer{
         background-color: rgb(219, 77, 77);
