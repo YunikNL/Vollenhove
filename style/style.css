@@ -3,7 +3,7 @@
     font-family: 'Rubik Iso', cursive;
 }
 [class*="col-"] 
-{width: 100%;}@media screen and (min-width: 600px) and (min-width: 992px)
+{width: 100%;}@media screen and (min-width: 992px)
  {[class*="col-"] 
  {
 float: left;
@@ -88,7 +88,7 @@ left: 19px;
 #koplijst{
     list-style: none;
 }
-@media only screen and (max-width: 600px) and (min-width: 992px) {
+@media only screen and (min-width: 992px) {
     #twee{
 height: 1170px;
     }
