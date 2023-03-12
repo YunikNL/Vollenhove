@@ -60,7 +60,7 @@ text-align: center;
 .info{
     display: inline-block;
     width: 200px;
-    height: 550px;
+    min-height: 550px;
     background-color: aqua;
     width: 300px;
     text-align: center;
