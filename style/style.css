@@ -3,7 +3,7 @@
     font-family: 'Rubik Iso', cursive;
 }
 [class*="col-"] 
-{width: 100%;}@media screen and (min-width: 600px)
+{width: 100%;}@media screen and (min-width: 600px) and (min-width: 768-991px)
  {[class*="col-"] 
  {
 float: left;
